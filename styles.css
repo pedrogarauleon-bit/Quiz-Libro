@@ -58,12 +58,12 @@
 
  .bgBack {
      opacity: 0.95;
-     animation: driftBack 180s linear infinite;
+     animation: driftBack 75s linear infinite;
  }
 
  .bgFront {
      opacity: 0.5;
-     animation: driftFront 120s linear infinite;
+     animation: driftFront 45s linear infinite;
      mix-blend-mode: screen;
  }
 
